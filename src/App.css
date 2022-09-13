@@ -1,0 +1,12 @@
+.main__container > * {
+  margin: 20px;
+
+}
+
+body{
+  background-color: #c9cdd7;
+}
+
+.head{
+  text-align: center;
+}
